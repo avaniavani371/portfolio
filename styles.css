@@ -1,0 +1,59 @@
+#nav{
+    background-color: rgb(13, 11, 129);
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+    height:50px;
+}
+li{
+    list-style-type:none;
+}
+#home:hover{
+    color:rgb(127, 202, 255);
+}
+#welcome{
+    color:rgb(15, 4, 70);
+    text-align:center;
+    front-family:'Franklin Gothic medium','Arial Narrow',Arial,sans-serif;
+    background-color: rgb(165, 229, 37);
+}
+#maroon{
+    color:maroon
+}
+#about{
+    text-align: center;
+    margin-left:30px;
+    border-radius:20px;
+    border:20px  rgb(214, 233, 10);
+    padding:50px;
+    background-color: rgb(165, 229, 37);
+  
+}
+#skills{
+    text-align: center;
+    margin:20px;
+    border-radius:20px;
+    border:20px  rgb(214, 233, 10);
+    padding:50px;
+    background-color: rgb(165, 229, 37);
+}
+#edu{
+    text-align:center;
+    margin: 20px;
+    border-radius:20px;
+    border:20px  rgb(214, 233, 10);
+    padding:50px;
+    background-color: rgb(165, 229, 37);
+}
+#contact{
+text-align:center;
+margin: 20px;
+border-radius:20px;
+border:20px  rgb(214, 233, 10);
+padding:50px;
+background-color: rgb(165, 229, 37);
+}
+#ff{
+    font-size: larger;
+    font-family: 'Gill Sans','Gill Sans MT',Calibri,'Trebuchet MS',sans-serif;
+}
